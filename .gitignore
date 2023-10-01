@@ -1,0 +1,22 @@
+# Node.js dependencies:
+node_modules/
+HFL_11006767.pol
+HFL_020000010.cla
+
+.env
+.env.dev
+.env.prod
+.env.production
+
+firebase.js
+
+yarn.lock
+
+.DS_Store
+
+serviceAccountKey-dev.json
+aig-universal-dev-firebase-adminsdk.json
+aig-universal-prod-firebase-adminsdk.json
+aig-universal-dev-bigquery.json
+aig-universal-dev-storage.json
+aig-universal-prod-bigquery.json
